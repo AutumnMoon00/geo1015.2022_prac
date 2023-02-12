@@ -1,6 +1,6 @@
 #-- my_code_hw02.py
 #-- hw02 GEO1015.2022
-#-- [YOUR NAME]
+#-- Sharath Chandra Madanu
 #-- [YOUR STUDENT NUMBER] 
 
 from datetime import datetime
