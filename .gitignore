@@ -1,0 +1,8 @@
+# Specify filepatterns you want git to ignore.
+
+hw/01/.idea/*
+hw/02/cpp/build/*
+hw/02/python/.idea/*
+hw/02/cpp/.idea/*
+hw/02/cpp/cmake-build-debug/*
+hw/04/cpp/build/*
